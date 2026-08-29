@@ -20,5 +20,6 @@
     </div>
 @else
     <p>Anda login sebagai <strong>User Biasa</strong>. Hanya dapat melihat data (segera hadir).</p>
+    <b class="fs-1">Pencet Barang di kiri untuk melihat crud </b>
 @endif
 @endsection

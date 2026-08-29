@@ -22,8 +22,7 @@
                 <nav>
                     <a href="/dashboard">🏠 Dashboard</a>
                     <a href="/barang">📦 Barang</a>
-                    <a href="/makanan-minuman">🍔 Makanan/Minuman</a>
-                    <a href="/pelayanan">🛠️ Pelayanan</a>
+                    
                     <form action="/logout" method="POST">
                         @csrf
                         <button type="submit" class="btn btn-link text-white text-decoration-none mt-3">🚪 Logout</button>
